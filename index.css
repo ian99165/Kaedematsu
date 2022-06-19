@@ -1,0 +1,25 @@
+.text01{
+  margin-left: 100px;
+  margin-top: 20px;
+  color: #000000;
+  font-size: 16px;
+}
+.text02{
+  margin-left: 100px;
+  margin-top: 20px;
+  color: #000000;
+  font-size: 20px;
+}
+.imgover{
+  height: 400px;
+  width: auto;
+  max-width: 350px;
+  object-fit: cover;
+  vertical-align:middle;
+  justify-content: center;
+}
+.imgover1{
+  margin-left: 100px;
+  height: 1000px;
+  width: auto;
+}
